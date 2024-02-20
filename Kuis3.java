@@ -1,3 +1,8 @@
+// Nama : MUHAMMAD RIO PERDANA
+// Nim: 09011382328150
+// Program Menentukan Bilangan Prima
+
+
 import java.util.Scanner;
 
 public class Kuis3 {
